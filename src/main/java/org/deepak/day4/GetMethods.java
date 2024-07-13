@@ -6,7 +6,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.util.Set;
 
-public class TestCase1 {
+public class GetMethods {
     public static void main(String[] args) throws InterruptedException {
         WebDriver driver = new ChromeDriver();
 
