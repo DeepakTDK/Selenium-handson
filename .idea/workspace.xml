@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8790e426-8eae-447b-a7fb-1caf7cf85d5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/deepak/day5/ImplicitwaitDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/deepak/day5/ExplictwaitDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="day3" />
+        <entry key="$PROJECT_DIR$" value="day4" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -47,7 +47,7 @@
     "Maven.seleniumwebdriver [install].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "day4",
+    "git-widget-placeholder": "day5",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "E:/seleniumwebdriver/seleniumwebdriver/src/main/java/org/deepak/Main.java"
   }
