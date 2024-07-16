@@ -1,0 +1,3 @@
+logostatus isdisplayed: true
+search isenabled: true
+excstatus isselected: true

@@ -1,0 +1,2 @@
+https://demo.nopcommerce.com/
+https://opensource-demo.orangehrmlive.com/web/index.php/auth/login

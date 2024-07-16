@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8790e426-8eae-447b-a7fb-1caf7cf85d5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/deepak/day5/FluentwaitDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/deepak/day1/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/deepak/day3/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/deepak/day4/output1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/deepak/day4/output2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/deepak/day6/Navigation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/deepak/day6/output.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deepak/day1/Testcase1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/deepak/day1/Testcase1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deepak/day3/TestCase1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/deepak/day3/TestCase1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deepak/day4/ConditionalMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/deepak/day4/ConditionalMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deepak/day4/GetMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/deepak/day4/GetMethods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +50,10 @@
   "keyToString": {
     "Application.ConditionalMethods.executor": "Run",
     "Application.ExplictwaitDemo.executor": "Run",
+    "Application.FluentwaitDemo.executor": "Run",
+    "Application.GetMethods.executor": "Run",
     "Application.ImplicitwaitDemo.executor": "Run",
+    "Application.Navigation.executor": "Run",
     "Application.TestCase1.executor": "Run",
     "Application.Testcase1.executor": "Run",
     "Maven.seleniumwebdriver [clean].executor": "Run",

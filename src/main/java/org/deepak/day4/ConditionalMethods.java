@@ -5,8 +5,15 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.PrintStream;
+
 public class ConditionalMethods {
-    public static void main(String[] args) throws InterruptedException {
+    public static void main(String[] args) throws InterruptedException, FileNotFoundException {
+        File file = new File("E:\\seleniumwebdriver\\seleniumwebdriver\\src\\main\\java\\org\\deepak\\day4\\output1.txt");
+        PrintStream stream = new PrintStream(file);
+        System.setOut(stream);
         WebDriver driver = new ChromeDriver();
         driver.get("https://demo.nopcommerce.com/");
         Thread.sleep(5000);
