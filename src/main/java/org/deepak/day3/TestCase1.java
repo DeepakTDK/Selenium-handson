@@ -10,7 +10,7 @@ import java.io.PrintStream;
 
 public class TestCase1 {
     public static void main(String[] args) throws FileNotFoundException {
-        File file = new File("E:\\seleniumwebdriver\\seleniumwebdriver\\src\\main\\java\\org\\deepak\\day3\\output.txt");
+        File file = new File("E:\\seleniumwebdriver\\seleniumwebdriver\\src\\main\\java\\org\\deepak\\day3\\output1.txt");
         PrintStream stream = new PrintStream(file);
         System.setOut(stream);
         WebDriver driver = new ChromeDriver();

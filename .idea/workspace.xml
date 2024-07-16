@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8790e426-8eae-447b-a7fb-1caf7cf85d5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/deepak/day1/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/deepak/day3/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/deepak/day4/output1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/deepak/day4/output2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/deepak/day6/Navigation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/deepak/day6/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/deepak/day6/Browserwindows.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/deepak/day1/Testcase1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/deepak/day1/Testcase1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/deepak/day3/TestCase1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/deepak/day3/TestCase1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/deepak/day4/ConditionalMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/deepak/day4/ConditionalMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/deepak/day4/GetMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/deepak/day4/GetMethods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="day4" />
+        <entry key="$PROJECT_DIR$" value="day5" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -48,6 +39,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Browserwindows.executor": "Run",
     "Application.ConditionalMethods.executor": "Run",
     "Application.ExplictwaitDemo.executor": "Run",
     "Application.FluentwaitDemo.executor": "Run",
@@ -60,7 +52,7 @@
     "Maven.seleniumwebdriver [install].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "day5",
+    "git-widget-placeholder": "day6",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "E:/seleniumwebdriver/seleniumwebdriver/src/main/java/org/deepak/Main.java"
   }
