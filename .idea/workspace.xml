@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8790e426-8eae-447b-a7fb-1caf7cf85d5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/deepak/day6/Browserwindows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/deepak/day6/Assignment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/deepak/day6/assoutput.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/deepak/day7/HandleAlerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/deepak/day7/HandleCheckboxes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deepak/day6/Browserwindows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/deepak/day6/Browserwindows.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,11 +43,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Assignment.executor": "Run",
     "Application.Browserwindows.executor": "Run",
     "Application.ConditionalMethods.executor": "Run",
     "Application.ExplictwaitDemo.executor": "Run",
     "Application.FluentwaitDemo.executor": "Run",
     "Application.GetMethods.executor": "Run",
+    "Application.HandleAlerts.executor": "Run",
+    "Application.HandleCheckboxes.executor": "Run",
     "Application.ImplicitwaitDemo.executor": "Run",
     "Application.Navigation.executor": "Run",
     "Application.TestCase1.executor": "Run",
