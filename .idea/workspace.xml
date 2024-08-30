@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8790e426-8eae-447b-a7fb-1caf7cf85d5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/deepak/day6/Assignment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/deepak/day6/assoutput.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/deepak/day7/HandleAlerts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/deepak/day7/HandleCheckboxes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/deepak/day8/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/deepak/day8/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/deepak/day8/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/deepak/day8/LoginTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/deepak/day6/Browserwindows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/deepak/day6/Browserwindows.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +28,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="day5" />
+        <entry key="$PROJECT_DIR$" value="day6" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -59,11 +60,76 @@
     "Maven.seleniumwebdriver [install].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "day6",
+    "TestNG.LoginTest.executor": "Run",
+    "TestNG.LoginTest.testLogin.executor": "Run",
+    "git-widget-placeholder": "day8",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/seleniumwebdriver/seleniumwebdriver/src/test/java/org/deepak",
     "onboarding.tips.debug.path": "E:/seleniumwebdriver/seleniumwebdriver/src/main/java/org/deepak/Main.java"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\seleniumwebdriver\seleniumwebdriver\src\test\java\org\deepak" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.deepak.day8" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.E:/seleniumwebdriver/seleniumwebdriver/testng.xml">
+    <configuration name="E:/seleniumwebdriver/seleniumwebdriver/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumwebdriver" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumwebdriver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.deepak.day8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.deepak.day8" />
+      <option name="MAIN_CLASS_NAME" value="org.deepak.day8.LoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.testLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumwebdriver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.deepak.day8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.deepak.day8" />
+      <option name="MAIN_CLASS_NAME" value="org.deepak.day8.LoginTest" />
+      <option name="METHOD_NAME" value="testLogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.E:/seleniumwebdriver/seleniumwebdriver/testng.xml" />
+        <item itemvalue="TestNG.LoginTest" />
+        <item itemvalue="TestNG.LoginTest.testLogin" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
