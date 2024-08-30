@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8790e426-8eae-447b-a7fb-1caf7cf85d5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/deepak/day8/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/deepak/day8/LoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/deepak/day8/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/deepak/day8/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/deepak/day8/LoginPage1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/deepak/day8/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/deepak/day8/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/deepak/day8/testng.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +57,8 @@
     "Maven.seleniumwebdriver [install].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.E:/seleniumwebdriver/seleniumwebdriver/src/test/java/org/deepak/day8/testng.xml.executor": "Run",
+    "TestNG.E:/seleniumwebdriver/seleniumwebdriver/testng.xml.executor": "Run",
     "TestNG.LoginTest.executor": "Run",
     "TestNG.LoginTest.testLogin.executor": "Run",
     "git-widget-placeholder": "day8",
@@ -72,11 +71,24 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\seleniumwebdriver\seleniumwebdriver\src\test\java\org\deepak" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\seleniumwebdriver\seleniumwebdriver\src\test\java\org\deepak\day8" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="org.deepak.day8" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.E:/seleniumwebdriver/seleniumwebdriver/testng.xml">
+  <component name="RunManager" selected="TestNG.E:/seleniumwebdriver/seleniumwebdriver/src/test/java/org/deepak/day8/testng.xml">
+    <configuration name="E:/seleniumwebdriver/seleniumwebdriver/src/test/java/org/deepak/day8/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumwebdriver" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/org/deepak/day8/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="E:/seleniumwebdriver/seleniumwebdriver/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="seleniumwebdriver" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
@@ -124,6 +136,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.E:/seleniumwebdriver/seleniumwebdriver/src/test/java/org/deepak/day8/testng.xml" />
         <item itemvalue="TestNG.E:/seleniumwebdriver/seleniumwebdriver/testng.xml" />
         <item itemvalue="TestNG.LoginTest" />
         <item itemvalue="TestNG.LoginTest.testLogin" />
