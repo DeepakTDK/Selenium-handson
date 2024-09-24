@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8790e426-8eae-447b-a7fb-1caf7cf85d5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/deepak/day8/LoginPage1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/deepak/day8/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/deepak/day8/LoginTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/deepak/day8/testng.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,34 +36,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Assignment.executor": "Run",
-    "Application.Browserwindows.executor": "Run",
-    "Application.ConditionalMethods.executor": "Run",
-    "Application.ExplictwaitDemo.executor": "Run",
-    "Application.FluentwaitDemo.executor": "Run",
-    "Application.GetMethods.executor": "Run",
-    "Application.HandleAlerts.executor": "Run",
-    "Application.HandleCheckboxes.executor": "Run",
-    "Application.ImplicitwaitDemo.executor": "Run",
-    "Application.Navigation.executor": "Run",
-    "Application.TestCase1.executor": "Run",
-    "Application.Testcase1.executor": "Run",
-    "Maven.seleniumwebdriver [clean].executor": "Run",
-    "Maven.seleniumwebdriver [install].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "TestNG.E:/seleniumwebdriver/seleniumwebdriver/src/test/java/org/deepak/day8/testng.xml.executor": "Run",
-    "TestNG.E:/seleniumwebdriver/seleniumwebdriver/testng.xml.executor": "Run",
-    "TestNG.LoginTest.executor": "Run",
-    "TestNG.LoginTest.testLogin.executor": "Run",
-    "git-widget-placeholder": "day8",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/seleniumwebdriver/seleniumwebdriver/src/test/java/org/deepak",
-    "onboarding.tips.debug.path": "E:/seleniumwebdriver/seleniumwebdriver/src/main/java/org/deepak/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Browserwindows.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConditionalMethods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExplictwaitDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FluentwaitDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GetMethods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HandleAlerts.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HandleCheckboxes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HandleDropdown.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ImplicitwaitDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Navigation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestCase1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Testcase1.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.seleniumwebdriver [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.seleniumwebdriver [install].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.E:/seleniumwebdriver/seleniumwebdriver/src/test/java/org/deepak/day8/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.E:/seleniumwebdriver/seleniumwebdriver/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest.testLogin.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;day8&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/seleniumwebdriver/Opencartv1&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;E:/seleniumwebdriver/seleniumwebdriver/src/main/java/org/deepak/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\seleniumwebdriver\seleniumwebdriver\src\test\java\org\deepak" />
@@ -78,7 +76,20 @@
       <recent name="org.deepak.day8" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.E:/seleniumwebdriver/seleniumwebdriver/src/test/java/org/deepak/day8/testng.xml">
+  <component name="RunManager" selected="Application.HandleDropdown">
+    <configuration name="HandleDropdown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.deepak.day8.HandleDropdown" />
+      <module name="seleniumwebdriver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.deepak.day8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="E:/seleniumwebdriver/seleniumwebdriver/src/test/java/org/deepak/day8/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="seleniumwebdriver" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/org/deepak/day8/testng.xml" />
@@ -136,6 +147,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HandleDropdown" />
         <item itemvalue="TestNG.E:/seleniumwebdriver/seleniumwebdriver/src/test/java/org/deepak/day8/testng.xml" />
         <item itemvalue="TestNG.E:/seleniumwebdriver/seleniumwebdriver/testng.xml" />
         <item itemvalue="TestNG.LoginTest" />
